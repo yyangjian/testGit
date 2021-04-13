@@ -16,5 +16,6 @@ public class HelloGit {
         System.out.println("在线更新");
         System.out.println("克隆者添加");
         System.out.println("通过ssh添加1");
+        System.out.println("通过ssh添加2");
     }
 }
